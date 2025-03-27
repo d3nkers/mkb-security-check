@@ -3,7 +3,7 @@ MKB security ccheck tool
 
 Eenvoudige beveiligingscheck voor websites, speciaal gericht op MKB'ers.
 
-Copyright (c) 2025 d3nkers solutions - https://d3nkers-solutions.nl
+Copyright (c) 2025 SafeMKB - https://safemkb.eu
 """
 
 import argparse
