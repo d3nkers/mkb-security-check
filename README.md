@@ -48,13 +48,13 @@ Directory listing: Geen directory listing gevonden.
 Het rapport wordt opgeslagen in het opgegeven formaat (`json` of `html`).
 
 ## Toekomstige verbeteringen
-📌 Toevoegen van een automatische update-check voor de tool.  
-📌 Detectie van verouderde softwareversies en zwakke configuraties.  
-📌 Meer gedetailleerde risicoanalyse en aanbevelingen per bevinding.  
-📌 Mogelijkheid om meerdere websites tegelijk te scannen.
+Toevoegen van een automatische update-check voor de tool.  
+Detectie van verouderde softwareversies en zwakke configuraties.  
+Meer gedetailleerde risicoanalyse en aanbevelingen per bevinding.  
+Mogelijkheid om meerdere websites tegelijk te scannen.
 
 
 ## Licentie
-Copyright (c) 2025 d3nkers solutions - [https://d3nkers-solutions.nl](https://d3nkers-solutions.nl)  
+Copyright (c) 2025 D3nkers Solutions - [https://d3nkers-solutions.nl](https://d3nkers-solutions.nl)  
 Dit project valt onder de MIT-licentie.
 
